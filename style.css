@@ -33,6 +33,7 @@
   stroke: #757bc8;
   stroke-width: 17;
   stroke-miterlimit: 10;
+  stroke-linecap: round;
 }
 
 .minute-arm {
@@ -40,6 +41,7 @@
   stroke: #757bc8;
   stroke-width: 11;
   stroke-miterlimit: 10;
+  stroke-linecap: round;
 }
 
 .second-arm {
@@ -47,6 +49,7 @@
   stroke: #757bc8;
   stroke-width: 4;
   stroke-miterlimit: 10;
+  stroke-linecap: round;
 }
 
 .sizing-box {
